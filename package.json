@@ -8,6 +8,17 @@
   "dependencies": {
     "next": "^14.2.21",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
-  }
+    "react-dom": "^18.2.0",
+    "uuidv4": "^6.2.13"
+  },
+  "name": "codespaces-nextjs",
+  "description": "Welcome to your shiny new Codespace running Next.js! We've got everything fired up and running for you to explore Next.js.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@types/node": "^22.15.21"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
